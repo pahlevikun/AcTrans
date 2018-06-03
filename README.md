@@ -1,5 +1,5 @@
 # AcTrans
-A simple Android Library. Very easy to use Android library for making transition animations between activity. 
+A simple Android Library. Very easy to use this Android library for give transition animations between 2 activities. 
 <br>Example :
 <br>![Example 1](https://raw.githubusercontent.com/pahlevikun/AcTrans/master/example02.gif "Example 1") ![Example 2](https://raw.githubusercontent.com/pahlevikun/AcTrans/master/example01.gif "Example 2")
 
