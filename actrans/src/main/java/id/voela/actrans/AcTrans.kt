@@ -30,6 +30,10 @@ class AcTrans private constructor(private var builder: Builder) {
         fun performSlideToTop() {
             (context as Activity).overridePendingTransition(R.anim.slide_top_start, R.anim.slide_top_end)
         }
+
+        fun performFade() {
+            (context as Activity).overridePendingTransition(R.anim.fade_start, R.anim.fade_end)
+        }
     }
 
 }
