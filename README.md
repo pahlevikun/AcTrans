@@ -31,7 +31,7 @@ dependencies {
 ```
 
 ## Sample Code 
-Aimation for can be work in Activity Transition so please place the code after intent or other activity transition event
+Animation for can be work in Activity Transition so please place the code after intent or other activity transition event
 ```kotlin
 startActivity(Intent(this,SecondActivity::class.java))
 AcTrans.Builder(this).performSlideToTop()
